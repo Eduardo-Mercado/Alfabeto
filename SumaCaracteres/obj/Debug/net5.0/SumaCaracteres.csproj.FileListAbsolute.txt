@@ -1,0 +1,16 @@
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\SumaCaracteres.exe
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\SumaCaracteres.deps.json
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\SumaCaracteres.runtimeconfig.json
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\SumaCaracteres.runtimeconfig.dev.json
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\SumaCaracteres.dll
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\ref\SumaCaracteres.dll
+D:\proyectos\SumaCaracteres\SumaCaracteres\bin\Debug\net5.0\SumaCaracteres.pdb
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.csproj.AssemblyReference.cache
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.AssemblyInfoInputs.cache
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.AssemblyInfo.cs
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.csproj.CoreCompileInputs.cache
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.dll
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\ref\SumaCaracteres.dll
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.pdb
+D:\proyectos\SumaCaracteres\SumaCaracteres\obj\Debug\net5.0\SumaCaracteres.genruntimeconfig.cache
